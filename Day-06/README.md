@@ -14,7 +14,7 @@ JSON javascript Object Notation
 
 REST API :
 
-// like our server is same for all like browser,Android ,ios ,, so we have to data like for browser HTML only for Android ,ios some JSON data
+// like our server is same for all like browser,Android ,ios ,, so we have to res like for browser HTML only for Android ,ios some JSON data
 
 means a Hybrid Server
 
